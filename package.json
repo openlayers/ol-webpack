@@ -1,0 +1,14 @@
+{
+  "name": "ol-webpack",
+  "version": "1.0.0",
+  "description": "Example using OpenLayers with Webpack",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.2"
+  },
+  "dependencies": {
+    "ol": "^3.21.0-beta.5"
+  }
+}
