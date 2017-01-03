@@ -9,6 +9,6 @@
     "webpack": "^2.2.0-rc.2"
   },
   "dependencies": {
-    "ol": "^3.21.0-beta.13"
+    "ol": "^3.21.0-beta.14"
   }
 }
