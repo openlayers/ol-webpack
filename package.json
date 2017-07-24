@@ -6,9 +6,11 @@
     "build": "webpack --config webpack.config.js"
   },
   "devDependencies": {
-    "webpack": "^2.2.1"
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.3.0"
   },
   "dependencies": {
-    "ol": "^4.0.1-beta.2"
+    "ol": "^4.2.0"
   }
 }
