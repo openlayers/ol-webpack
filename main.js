@@ -1,8 +1,6 @@
-import 'ol/ol.css';
-import Map from 'ol/map';
-import View from 'ol/view';
-import TileLayer from 'ol/layer/tile';
-import XYZ from 'ol/source/xyz';
+import {Map, View} from 'ol';
+import TileLayer from 'ol/layer/Tile';
+import XYZ from 'ol/source/XYZ';
 
 new Map({
   target: 'map',
