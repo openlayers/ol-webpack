@@ -1,6 +1,6 @@
 # OpenLayers + Webpack
 
-This example demonstrates how the `ol` package can be used with webpack 2.
+This example demonstrates how the `ol` package can be used with webpack.
 
 Clone the project.
 
