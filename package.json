@@ -10,6 +10,6 @@
     "webpack-command": "^0.3.0"
   },
   "dependencies": {
-    "ol": "^5.0.1"
+    "ol": "^5.1.2"
   }
 }
