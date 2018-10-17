@@ -11,6 +11,10 @@ Install the project dependencies.
     cd ol-webpack
     npm install
 
+Start development server for the browser.
+
+    npm run dev
+
 Create a bundle for the browser.
 
     npm run build
