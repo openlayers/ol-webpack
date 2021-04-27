@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Example using OpenLayers with Webpack",
   "scripts": {
-    "build": "webpack --config webpack.config.js --mode production"
+    "build": "wp --config webpack.config.js"
   },
   "devDependencies": {
-    "webpack": "^4.12.1",
-    "webpack-command": "^0.3.0"
+    "webpack": "^5.35.1",
+    "webpack-nano": "^1.1.1"
   },
   "dependencies": {
-    "ol": "^5.1.2"
+    "ol": "^6.5.0"
   }
 }
