@@ -6,7 +6,7 @@
     "build": "wp --config webpack.config.js"
   },
   "devDependencies": {
-    "webpack": "^5.42.0",
+    "webpack": "^5.47.1",
     "webpack-nano": "^1.1.1"
   },
   "dependencies": {
